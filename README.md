@@ -14,8 +14,8 @@ A fundamental implementation of the single-layer Perceptron algorithm built from
 ## Technologies Used
 
 * **Python 3.x**
-* **NumPy:**
-* **Matplotlib:**
+* **NumPy**
+* **Matplotlib**
 
 ## Skills Demonstrated
 
